@@ -1,0 +1,5 @@
+.idea/
+ParserBot/__pycache__/
+ParserBot/settings.py
+venv/
+*.log
